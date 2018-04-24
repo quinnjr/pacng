@@ -11,7 +11,7 @@ Pronounced: Pack-ing.
 [Read the roadmap](https://github.com/quinnjr/pacng/wiki/Development-Roadmap)
 
 ## Changes
-[See the Change log](CHANGES.md)
+[See the Change log](https://github.com/quinnjr/pacng/wiki/Change-Log)
 
 ## Contributing
 [See the contributing FAQ](https://github.com/quinnjr/pacng/wiki/Contributing)
