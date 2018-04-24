@@ -1,3 +1,3 @@
-# packng
+# PacNG
 
-License: MIT
+Pronounced: Pack-ing.
