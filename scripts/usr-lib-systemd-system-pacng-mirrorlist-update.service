@@ -1,0 +1,7 @@
+[Unit]
+Description="Service for running a mirrorlist update for PacNG"
+
+[Service]
+Type=oneshot
+ExecStart="/usr/bin/pacng mirrorlist -o /etc/pacng.d/mirrorlist.toml"
+Restart=on-abnormal

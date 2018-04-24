@@ -1,0 +1,12 @@
+[Unit]
+Description="Timer for executing PacNG mirrorlist updates"
+RefuseManualStart=no
+RefuseManualStop=no
+
+[Timer]
+Persistent=true
+OnCalendar=monthly
+Unit=pacng-mirrorlist-update.service
+
+[Install]
+WantedBy=default.target
