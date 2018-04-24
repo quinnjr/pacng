@@ -3,7 +3,7 @@ name = "pacng"
 version = "0.1.0"
 authors = [ "Joseph Quinn <quinn.josephr@protonmail.com>" ]
 description = """
-An alternative package manager for ArchLinux with AUR support.
+An alternative package manager for Arch Linux. Includes mirror updating and AUR support.
 """
 license = "ISC"
 homepage = "https://github.com/quinnjr/pacng"
